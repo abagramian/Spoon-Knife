@@ -1,2 +1,1 @@
-random words until real words
-
+I do not have a solid idea of a project that I would like to do, but I am very interested in interacting with an API of some sort to make a useful and convenient application. I would like to organize it using the common repository method.
